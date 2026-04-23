@@ -1,13 +1,13 @@
 <!-- 🔥 TOP BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohammad%20Tajul%20Islam&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20🚀&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tajul1995&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-</div>
+</div> -->
 
 ---
 
